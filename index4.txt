@@ -1,0 +1,133 @@
+<!DOCTYPE htm>
+<html>
+<head>
+<title>История города</title>
+<style>
+    img{position:relative;
+    margin-left: 15%;
+    margin-right: 15%;   
+    border: 4px solid CornflowerBlue;}
+    }
+    table{width: 500px;
+        margin: auto;
+        border: solid MediumBlue;
+    }
+   
+    p {
+        text-align:justify;
+        font-size: 18px;
+        margin-right: 15%;
+    margin-left: 15%;
+    }
+ h1{
+        color:red;
+        text-align:center}
+    td{
+        
+        background-color: CornflowerBlue;
+        color: white;
+        text-align: justify;
+        border:solid MediumBlue;
+    }
+    
+    nav{position: relative;
+        width:100%;
+    border-bottom:3px CornflowerBlue solid;
+        height:70px;
+        overflow: hidden;
+        box-sizing: border-box;
+        margin-bottom: 20px;}
+    #menu ul{position: relative;
+        width:1000px;
+        margin: auto;
+        border-bottom:3px CornflowerBlue solid;
+    }
+    #menu ul li{float: left;
+        width:25%;
+        font-size:25px; 
+        list-style: none;
+    }
+    #menu ul li a{color: DarkRed;
+    text-decoration: none}
+</style>
+</head>
+<body style="background-color:Lavender">
+<nav id="menu">
+       <ul>
+           <li><a href="">История города</a></li>
+           <li><a href="">Инфраструктура города</a></li>
+           <li><a href="">Культура и искусство <br> в городе</a></li>
+           <li><a href=""> Форма обратной связи с разработчиком</a></li>
+        
+       </ul>
+   </nav>
+<h1>История города</h1>
+<div style="width: 1000px;
+        margin: auto;"><table>
+    <tr>
+        <td style="text-align: center">Дата</td>
+        <td style="text-align: center">Событие</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1869 </td>
+        <td> на месте слободы Александровка Екатеринославской губернии валлийский промышленник Джон Юз начал строительство металлургического завода (ныне — Донецкий металлургический завод) и заложил посёлок Юзовка, (ныне — город Донецк).</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1870</td>
+        <td> для заведования городским хозяйством в Мариуполе открыта городская дума.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">24 января 1872</td>
+        <td>на Юзовском заводе получили первый чугун.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1872 </td>
+        <td>в г. Бахмут немец Э. Г. Фарке начал прокладку водопровода, Фарке строит стекольный, гвоздильно-костыльный, алебастровый и кирпичный заводы.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1879</td>
+        <td>в г. Бахмуте начинают строиться соляные шахты франко-бельгийским и франко-немецким акционерными обществами.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1885</td>
+        <td>соляные шахты Бахмута давали 70 % общероссийской добычи соли. Россия прекратила ввоз соли из-за границы.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1889 </td>
+        <td>в посёлке Юзовка основан машиностроительный завод Боссе и Генефельда (сейчас — «Донецкгормаш»)</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1895</td>
+        <td>начало строительства Константиновского стекольного завода Бельгийского анонимного общества, построен котельно-механический завод в Харцызске (сейчас — Харцызский трубный завод).</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">май 1917</td>
+        <td>посёлок Юзовка получил статус города.</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1924</td>
+        <td> города Юзовка переименован в Сталино, Бахмут в Артёмовск. Основан посёлок Ново-Ждановка (сейчас — город Ждановка).</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1 мая 1930</td>
+        <td>пущен крупнейший в СССР Мариупольский новотрубный завод (сейчас — часть ММК имени Ильича).</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">11 июля 1960</td>
+        <td>введена в действие крупнейшая в мире установка непрерывного литья стали на Донецком металлургическом заводе.</td>
+    </tr>
+       <tr>
+        <td style="text-align: center"> 1961</td>
+        <td>Сталино переименован в Донецк. </td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1972</td>
+        <td>реконструкция и модернизация угольной, металлургической, машиностроительной, химической, пищевой и легкой промышленности. Строятся хлопчатобумажный комбинат, комбинат рыбопродуктов, фабрика детских игрушек</td>
+    </tr>
+    <tr>
+        <td style="text-align: center">1978</td>
+        <td>численность населения превысила миллионный рубеж</td>
+    </tr>
+    </table></div>
+    </body>
+    
